@@ -27,3 +27,7 @@ Setelah itu, program menampilkan seluruh isi grid ke layar dengan menggunakan lo
 5.	Program tersebut menghitung dan menampilkan koordinat titik-titik yang membentuk garis dari titik awal (0,0) ke titik akhir (5,3) menggunakan metode DDA (Digital Differential Analyzer).
 Program ini terlebih dahulu menghitung selisih koordinat (dx, dy), menentukan jumlah langkah berdasarkan nilai terbesar di antara keduanya (n), lalu menghitung perubahan nilai x dan y di setiap langkah. 
 Dengan melakukan iterasi sebanyak n langkah, program menampilkan koordinat hasil perhitungan secara bertahap hingga mencapai titik akhir.
+
+## 6. perbandingan
+<img width="578" height="389" alt="perbandingan" src="https://github.com/user-attachments/assets/1c429418-8966-41e6-8a70-99c541182fa0" />
+
